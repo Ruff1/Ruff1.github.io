@@ -2,20 +2,19 @@ html {
   font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
   font-family: 'Ubuntu', sans-serif;
 }
-
-h1 {
-  font-size: 70px;
-  text-align: center;
+h1{
+    font-size: 70px;
+    text-align: center;
 }
 
-p, li {
-  font-size: 16px;    
-  line-height: 2;
-  letter-spacing: 1px;
+p, li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
 }
 
-html {
-  background-color: #00539F;
+html{
+    background-color: #00539f
 }
 
 body {
@@ -34,7 +33,7 @@ h1 {
 }
 
 img {
-  display: block;
-  margin: 0 auto;
+    display: block;
+    margin: 0 auto;
     height: 300px;
 }
